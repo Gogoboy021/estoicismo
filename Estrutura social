@@ -1,8 +1,0 @@
-estoicismo/         <-- Raiz do repositório
-├── css/           <-- Pasta css
-│   └── style.css  <-- Arquivo CSS
-├── js/            <-- Pasta js
-│   └── script.js   <-- Arquivo JS
-├── images/        <-- Pasta images
-├── index.html     <-- Arquivo HTML
-└── README.md      <-- Arquivo README
